@@ -47,4 +47,4 @@ Abgedeckte Bereiche:
 - Parallelisierung
 - Genetischer Algorithmus
 
-Basierend auf dem Kurs "Learn Neural Networks by Building a Self-Driving Car Sim Using JavaScript" of freecodecamp.
+Basierend auf dem Kurs "Learn Neural Networks by Building a Self-Driving Car Sim Using JavaScript" von freecodecamp.
