@@ -20,6 +20,8 @@ es-ES:
 
 Aprendiendo redes neuronales construyendo una simulación de un coche autónomo utilizando JavaScript.
 
+Secciones cubiertas:
+
 - Mecánicas de conducción del coche
 - Definición de la carretera
 - Sensores artificiales
