@@ -24,7 +24,6 @@ class Controls {
           this.left = true;
           break;
       }
-      console.table(this);
     }
     document.onkeyup = (event) => {
       switch(event.key) {
@@ -41,7 +40,6 @@ class Controls {
           this.left = false;
           break;
       }
-      console.table(this);
     }
   }
 }
